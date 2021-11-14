@@ -1,0 +1,7 @@
+.about img {
+  width: 100%;
+}
+.accordion-button:not(.collapsed) {
+  color: white;
+  background-color: rgba(138, 11, 11, 0.863);
+}

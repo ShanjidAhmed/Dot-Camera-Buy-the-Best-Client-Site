@@ -1,0 +1,37 @@
+.service {
+  display: flex;
+  gap: 10px;
+  padding: 5px;
+  border: 0.1px solid rgba(211, 211, 211, 0.5);
+  transition: all 0.5s;
+}
+.service-logo {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+.service:hover {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  background-color: rgba(173, 216, 230, 0.39);
+  transform: translateY(-10px);
+}
+
+.service-logo img {
+  width: 100%;
+}
+.service-description {
+  flex: 3;
+  padding: 10px;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  flex-direction: column;
+}
+
+.icon-color {
+  color: goldenrod;
+}

@@ -1,0 +1,17 @@
+.data-card {
+  /* border: 1px solid green; */
+  margin: 5px;
+  padding: 15px;
+
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  /* background: white; */
+
+  /* width: 70; */
+}
+.main {
+  justify-content: center;
+}
+.bg {
+  /* background-image: url("https://www.chevening.org/wp-content/uploads/2019/08/travel.jpg"); */
+  /* background: rgb(240, 233, 233); */
+}

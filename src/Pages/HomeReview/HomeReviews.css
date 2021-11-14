@@ -1,0 +1,19 @@
+.doctor-card {
+  border-radius: 10px;
+  /* background-color: rgba(32, 178, 171, 0.486); */
+  border: 5px solid rgba(41, 219, 210, 0.24);
+  transition: all 0.5s;
+}
+.doctor-card:hover {
+  transform: translateY(-10px);
+  background-color: rgba(32, 178, 171, 0.486);
+}
+.doctor-card img {
+  width: 50%;
+  margin: 5px auto;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.info {
+  font-weight: 500;
+}
