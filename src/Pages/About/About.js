@@ -11,7 +11,7 @@ const About = () => {
                     <img src="https://images.unsplash.com/photo-1546560598-9c01e2ef8fde?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTh8NDA5NDUzfHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80" alt="" />
                 </div>
                 <div className="about-accordian col-sm-12 col-md-10 col-lg-6">
-                    <h3 className='text-center mt-md-5' >ZTM CAMERA</h3>
+                    <h3 className='text-center mt-md-5' >DOT CAMERA</h3>
                     <p className='my-4'>Cameras may just be the most important accessory you can own. Not only because of ther ability of capturing photos, but also because they complete an occasion to the fullest. Whether you’re after a unique statement piece or a trendy retro design, there’s a choice for every budget.  </p>
 
                     <Accordion defaultActiveKey="0">

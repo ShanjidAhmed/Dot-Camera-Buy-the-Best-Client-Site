@@ -13,7 +13,7 @@ const Footer = () => {
                     <div className="about-us footer-coloum col-lg-3 col-sm-7 col-md-5">
                         <h4>About Us</h4>
                         <hr />
-                        <p>ZTM Camera is an exceptional store of camera brand. Our diverse selection includes nikon, canon, sony, panasonic etc!</p>
+                        <p>DOT Camera is an exceptional store of camera brand. Our diverse selection includes nikon, canon, sony, panasonic etc!</p>
                     </div>
                     <div className="quick-links footer-coloum col-lg-2 col-sm-5 col-md-2">
                         <h4>Quick Links</h4>
@@ -51,7 +51,7 @@ const Footer = () => {
                     </div> */}
                 </div>
 
-                <p className="copyright"><small >Copyright ©2021. All rights reserved by <span className="myname">ABID ANJUM KHAN</span></small></p>
+                <p className="copyright"><small >Copyright ©2021. All rights reserved by <span className="myname">SHANJID AHMED</span></small></p>
             </footer>
         </div>
     );
